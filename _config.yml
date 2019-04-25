@@ -48,7 +48,7 @@ contact_PK:
 paginate: 5
 
 # Set permalink
-permalink: /:categories/:title
+permalink: /:categories/:title.html
 
 # MathJax support
 math: false
